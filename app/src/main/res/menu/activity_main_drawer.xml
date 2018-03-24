@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="D: Douglas"/>
+    <item android:title="ED: Esposa Douglas"/>
+    <item android:title="P: Pedro"/>
+    <item android:title="Sa: Sara"/>
+    <item android:title="Se: Sebas"/>
+    <item android:title="K: Karla"/>
+    <item android:title="H: Hugo"/>
+    <item android:title="Ca: Carlos"/>
+    <item android:title="Ob: Obdulio"/>
+    <item android:title="AP: Amigo Pedro"/>
+    <item android:title="I: Invitado"/>
+
+</menu>
